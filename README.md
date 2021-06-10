@@ -27,6 +27,7 @@ https://github.com/Dewald41/Dewald41/blob/eba5067aba1f7647613053c0d696f98a39e5e1
 * Describe how a dashboard can be used to answer critical business questions
 
 ## Data Analysis with Python
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd3fb0bc-0cf5-4460-9e44-0b4ad5750080/view?access_token=2173088209cafc241c09a76db65a2d7f7caa4c5a027cbcaf3f3a61edbb6ad6db
 * Importing Datasets
 * Cleaning the Data
 * Data frame manipulation
