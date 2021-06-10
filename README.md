@@ -26,6 +26,15 @@ https://github.com/Dewald41/Dewald41/blob/eba5067aba1f7647613053c0d696f98a39e5e1
 * Apply interactivity to dash core and HTML components
 * Describe how a dashboard can be used to answer critical business questions
 
+## Data Analysis with Python
+* Importing Datasets
+* Cleaning the Data
+* Data frame manipulation
+* Summarizing the Data
+* Building machine learning Regression models
+* Building data pipelines
+* Machine learning algorithms
+*  Pandas, Numpy, Scipy, Scikit-learn libraries
 <!---
 Dewald41/Dewald41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
