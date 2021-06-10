@@ -1,9 +1,8 @@
 # Recent Projects
 
 ## Data Science Capstone Project
-<a href="#https://dewald41.github.io/Capstone-Project/">clickable text</a>
+#https://dewald41.github.io/Capstone-Project/"
 
-<input type="checkbox" name=? value=?> Creates a link to that target location
 Leverage the Foursquare location data to explore or compare neighborhoods or cities
 Create interactive maps using Foluim
 
