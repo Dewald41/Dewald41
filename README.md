@@ -8,7 +8,7 @@ https://github.com/Dewald41/Capstone-Project/blob/7847483362ef8c2669297735d72bee
 * K means clustering
 * Matplotlib
 
-## Machine Learning with Python Project
+## IBM Machine Learning with Python Project
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3ecce4ba-8449-45cf-9c7f-f3b71fca4dc7/view?access_token=f90a4235f430acf045fcaa0b1e0c0a7b051bc7e4718217ed695cfe39d0ad97b1
 
 * k-Nearest Neighbour
@@ -16,7 +16,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3ecce4ba-8449-45cf-9c7
 * Support Vector Machine
 * Logistic Regression
 
-## Python Data Visualization Project
+## IBM Python Data Visualization Project
 https://github.com/Dewald41/Dewald41/blob/eba5067aba1f7647613053c0d696f98a39e5e183/Peer_Graded_Assignment_Questions.ipynb
 
 * Identify high-level popular Python dashboarding tools
@@ -26,7 +26,7 @@ https://github.com/Dewald41/Dewald41/blob/eba5067aba1f7647613053c0d696f98a39e5e1
 * Apply interactivity to dash core and HTML components
 * Describe how a dashboard can be used to answer critical business questions
 
-## Data Analysis with Python
+## IBM Data Analysis with Python
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd3fb0bc-0cf5-4460-9e44-0b4ad5750080/view?access_token=2173088209cafc241c09a76db65a2d7f7caa4c5a027cbcaf3f3a61edbb6ad6db
 * Importing Datasets
 * Cleaning the Data
