@@ -6,7 +6,7 @@
 ## IBM Data Science Capstone Project
 https://github.com/Dewald41/Capstone-Project/blob/7847483362ef8c2669297735d72bee7602ef95e4/Capston%20Poject%20Battle%20of%20neighborhoods%20(3).ipynb
 
-* Leverage the Foursquare location data to explore or compare neighborhoods or cities
+* Leverage the Foursquare location data to explore or compare neighborhoods
 * Create interactive maps using Foluim
 * K means clustering
 * Matplotlib
