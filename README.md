@@ -21,9 +21,9 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3ecce4ba-8449-45cf-9c7
 
 ## IBM Python Data Visualization Projects
 To view the following projects, click on the links below. Once opened in Google Colab press Ctrl + F9 to runn the code and to view visualizations.
-1) https://colab.research.google.com/drive/1nEqdi6m6Pcm_pOhKaWLkE4wMp2m5qcbw?usp=sharing
-2) https://colab.research.google.com/drive/1hkIW7rhQN4vApW2_DKiZMS_evB53OdF9?usp=sharing
-3) https://colab.research.google.com/drive/1GU29pXE64uwHzHV_dTKsHqDZnBHXorZA?usp=sharing
+## 1) Analyze the performance of the reporting airline to improve fight reliability thereby improving customer relaibility: https://colab.research.google.com/drive/1nEqdi6m6Pcm_pOhKaWLkE4wMp2m5qcbw?usp=sharing
+## 2) Airline delay dashboard: https://colab.research.google.com/drive/1waJICgyJ0KP2A3OMrrkZ5yGPFiFPJii2?usp=sharing
+4) https://colab.research.google.com/drive/1GU29pXE64uwHzHV_dTKsHqDZnBHXorZA?usp=sharing
 
 * Identify high-level popular Python dashboarding tools
 * Demonstrate basic Plotly, Plotly.graph_objects, and Plotly express commands
