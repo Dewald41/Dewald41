@@ -26,6 +26,7 @@ To view the following projects, click on the links below. Once opened in Google 
 ### 4) Dash Interactivity: https://colab.research.google.com/drive/1J0lXKFM2uneOxI9jgkJ9cKE2_xJARSva?usp=sharing
 ### 5) Dash Components: https://colab.research.google.com/drive/1GU29pXE64uwHzHV_dTKsHqDZnBHXorZA?usp=sharing
 
+### Key Skills:
 * Identify high-level popular Python dashboarding tools
 * Demonstrate basic Plotly, Plotly.graph_objects, and Plotly express commands
 * Demonstrate using Dash and basic Dash components (core and HTML)
