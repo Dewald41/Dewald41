@@ -20,7 +20,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3ecce4ba-8449-45cf-9c7
 * Logistic Regression
 
 ## IBM Python Data Visualization Projects
-1) https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ff99b12e-5984-410b-947f-ad803c2e90fb/view?access_token=e5d9c7fbb34b3aca69cad20ef81a7fa3d183bb26f3349ac2a5e56ec1550903ce
+1) https://colab.research.google.com/drive/1nEqdi6m6Pcm_pOhKaWLkE4wMp2m5qcbw?usp=sharing
 2) https://github.com/Dewald41/Dewald41/blob/eba5067aba1f7647613053c0d696f98a39e5e183/Peer_Graded_Assignment_Questions.ipynb
 
 * Identify high-level popular Python dashboarding tools
