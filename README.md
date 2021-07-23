@@ -22,7 +22,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3ecce4ba-8449-45cf-9c7
 * Logistic Regression
 
 ## IBM Python Data Visualization Projects
-To view the following projects, click on the links below. Once opened in Google Colab press Ctrl + F9 to runn the code and to view visualizations.
+To view the following projects, click on the links below. Once opened in Google Colab press Ctrl + F9 to run the code and to view visualizations.
 #### 1) Analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability: https://colab.research.google.com/drive/1nEqdi6m6Pcm_pOhKaWLkE4wMp2m5qcbw?usp=sharing
 #### 2) Airline delay dashboard: https://colab.research.google.com/drive/1waJICgyJ0KP2A3OMrrkZ5yGPFiFPJii2?usp=sharing
 #### 4) Dash Interactivity: https://colab.research.google.com/drive/1J0lXKFM2uneOxI9jgkJ9cKE2_xJARSva?usp=sharing
@@ -34,7 +34,7 @@ To view the following projects, click on the links below. Once opened in Google 
 * Demonstrate using Dash and basic Dash components (core and HTML)
 * Demonstrate adding different dashboard elements including text boxes, dropdown, graphs, and others
 * Apply interactivity to dash core and HTML components
-* Describe how a dashboard can be used to answer critical business questions
+* Use dashboard to answer critical business questions
 
 ## IBM Data Analysis with Python
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd3fb0bc-0cf5-4460-9e44-0b4ad5750080/view?access_token=2173088209cafc241c09a76db65a2d7f7caa4c5a027cbcaf3f3a61edbb6ad6db
@@ -46,7 +46,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd3fb0bc-0cf5-4460-9e4
 * Building machine learning Regression models
 * Building data pipelines
 * Machine learning algorithms
-*  Pandas, Numpy, Scipy, Scikit-learn libraries
+* Pandas, Numpy, Scipy, Scikit-learn libraries
 <!---
 Dewald41/Dewald41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
